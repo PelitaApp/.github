@@ -2,7 +2,7 @@
   <h2 align="center">PELITA: Peduli Lingkungan Kita</h2>
 <div align="center">
   <a href="#">
-    <img src="https://github.com/PelitaApp/.github/blob/main/pelita-high-resolution-logo-color-on-transparent-background.png" alt="logo" width="100" height="100">
+    <img src="https://github.com/PelitaApp/.github/blob/main/pelita-high-resolution-logo-color-on-transparent-background.png" alt="logo" width="150" height="150">
     <br>
   </a>
 </div>
