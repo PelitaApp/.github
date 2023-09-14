@@ -6,71 +6,30 @@
     <br>
   </a>
 </div>
-  
-<div align="center">
-  <h3>Our Team</h3>
-  <table align="center">
-    <tr>
-      <th>Bangkit ID</th>
-      <th>Name</th>
-      <th>Learning Path</th>
-<!--       <th>Profiles</th> -->
-    </tr>
-    <tr>
-      <td>M042DSX0265</td>
-      <td>Daffa Rayhan Riadi</td>
-      <td>Machine Learning</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> -->
-    </tr>
-    <tr>
-      <td>M350DKX4333</td>
-      <td>Heru Dwi Primanata Situmorang</td>
-      <td>Machine Learning</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> -->
-    </tr>
-    <tr>
-      <td>C368DSX4913</td>
-      <td>I Dewa Agung Adwitya Prawangsa</td>
-      <td>Cloud Computing</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> --> 
-    </tr>
-    <tr>
-      <td>C042DSX0618</td>
-      <td>Fauzan Fashihul Lisan</td>
-      <td>Cloud Computing</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> --> 
-    </tr>
-    <tr>
-      <td>A042DSX2453</td>
-      <td>Aditya Rizkiawan Nugraha</td>
-      <td>Mobile Development</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> --> 
-    </tr>
-    <tr>
-      <td>A172DSX2440</td>
-      <td>Jefri Okto Rivaldo Sinaga</td>
-      <td>Mobile Development</td>
-<!--       <td>
-        <a href="#"><img src="https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white"></a>
-        <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      </td> --> 
-    </tr>
-  </table>
-</div>
-  
-</body>
+
+# About
+Pelita is Smart Waste Management Application as a solution to educate people on how to manage waste into something useful and contribute to the economy
+
+# Our Team
+
+|            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
+| :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|Daffa Rayhan Riadi|M042DSX0265|Machine Learning|Project Manager, Machine Learning Engineer|[LinkedIn](https://www.linkedin.com/in/daffarayhanriadi/) or [Github](https://github.com/daffarayhanriadi)|
+|Heru Dwi Primanata Situmorang|M350DKX4333|Machine Learning|Machine Learning Engineer, Designer|[LinkedIn](https://www.linkedin.com/in/herusitumorang) or [Github](https://github.com/myhero216)|
+|I Dewa Agung Adwitya Prawangsa|C368DSX4913|Cloud Computing|DevOps Engineer|[LinkedIn](https://www.linkedin.com/in/prawangsa/) or [Github](https://github.com/Hanabihyug)|
+|Fauzan Fashihul Lisan|C042DSX0618|Cloud Computing|DevOps Engineer|[LinkedIn](https://www.linkedin.com/in/fauzanfl/) or [Github](https://github.com/FauzanFL)|
+|Aditya Rizkiawan Nugraha|A042DSX2453|Mobile Development|Android Mobile Developer, Designer|[LinkedIn](https://www.linkedin.com/in/aditya-rizkiawan-nugraha-84511a222/) or [Github](https://github.com/adityarizn31)|
+|Jefri Okto Rivaldo Sinaga|A172DSX2440|Mobile Development|Android Mobile Developer, Designer|[LinkedIn](https://www.linkedin.com/in/jefriorsinaga/) or [Github](https://github.com/kuy71kuy)|
+
+# Repositories
+
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+|Machine Learning|[Github](https://github.com/PelitaApp/bangkit-machine-learning)|
+|Cloud Computing|[Github](https://github.com/PelitaApp/bangkit-cloud-computing)|
+|Mobile Development|[Github](https://github.com/PelitaApp/bangkit-mobile-development)|
+
+# License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right"> Stay positive and always remember that every day is a new opportunity! <br> C23-PS389 Teams </p>
